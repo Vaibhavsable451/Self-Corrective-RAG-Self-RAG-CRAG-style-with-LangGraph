@@ -1,0 +1,16 @@
+Acme Corp Employee Handbook (excerpt)
+
+Remote Work Policy
+Employees may work remotely up to three days per week with manager approval. Fully remote arrangements require VP approval and are reviewed every six months. Remote employees must be reachable during core hours, 10:00 to 15:00 local time.
+
+Expense Policy
+Meals during business travel are reimbursed up to 60 USD per day. Flights over 500 USD require pre-approval from a director. Receipts must be submitted within 30 days of the expense.
+
+Security Policy
+All laptops must use full-disk encryption. Passwords must be at least 14 characters and rotated every 180 days. Customer data may not be stored on personal devices. Security incidents must be reported to security@acme.example within 24 hours.
+
+Leave Policy
+Full-time employees receive 20 days of paid vacation per year. Unused vacation days carry over up to a maximum of 5 days. Parental leave is 16 weeks fully paid for all parents.
+
+Learning Budget
+Each employee has a 1,500 USD annual learning budget for courses, books, and conferences. Unused budget does not roll over.

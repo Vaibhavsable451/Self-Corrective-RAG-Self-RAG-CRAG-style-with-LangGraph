@@ -1,0 +1,9 @@
+langgraph>=0.2
+langchain>=0.3
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+faiss-cpu
+pydantic>=2
+python-dotenv
